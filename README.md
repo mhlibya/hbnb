@@ -35,7 +35,7 @@ HBNB is a full web application, integrating database storage, a back-end API, an
 To start the console:
 ```sh
 ./console.py
-
+```
 # Console description and how to use
 
 ## quit:
