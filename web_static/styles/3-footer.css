@@ -1,0 +1,23 @@
+footer {
+<<<<<<< HEAD
+	background-color: #fff;
+	height: 60px;
+	border-top: 1px solid #CCCCCC;
+	position: fixed;
+	inset: 0px;
+	top: unset;
+	display: grid;
+	place-content: center;
+}
+=======
+    height: 60px;
+    background-color: white;
+    width: 100%;
+    border-top: 1px solid #cccccc;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    vertical-align: middle;
+    align-content: center;
+}
+>>>>>>> 7a1d1e9d7f1e2b9f896b34a825e8dadb8f1e3ef5
